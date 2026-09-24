@@ -85,7 +85,7 @@ public class Student {
         }
     }
     //Static method-belong to class ,not to object
-     public static void displaystudentInfo(){
+     public static void displayStudentCount(){
             System.out.println("Total number of students: " + studentCount);
         
     }
